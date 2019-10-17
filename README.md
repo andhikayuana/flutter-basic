@@ -10,8 +10,8 @@ Flutter Basic Demo
 
 ## Table of Contents
 
-1. Basic
-2. Divider in Action
+1. [Basic](https://github.com/andhikayuana/flutter-basic/tree/1-basic)
+2. Card Widget
 3. Drawer Widget
 4. BottomNavigationBar
 5. TabBar Widget
