@@ -14,6 +14,13 @@ class FlutterBasicApp extends StatelessWidget {
         drawer: Drawer(
           child: Column(
             children: <Widget>[
+              DrawerHeader(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: <Widget>[Text("Jarjit Singh")],
+                ),
+                decoration: BoxDecoration(color: Colors.green),
+              ),
               Text("1. Basic"),
               Divider(),
               Text("2. Card Widget"),
